@@ -22,7 +22,7 @@ nav {
     color: tomato;
 }
 
-nav ul li a {
+nav ul li a {s
     color: #a9a9a9;
     font-size: 15px;
     margin: auto 10px;
@@ -30,7 +30,8 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #683aa4;
+    color: #031057;
+    font-weight: bold;
 }
 
 section {
